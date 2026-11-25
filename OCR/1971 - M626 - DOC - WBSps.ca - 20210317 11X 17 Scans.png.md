@@ -1,5 +1,5 @@
 # 1971 - M626 - DOC - WBSps.ca - 20210317 11X 17 Scans.png
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** 1971 (found in this ad: "APRIL 1971")
@@ -70,7 +70,7 @@ B
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M626/1971 - M626 - DOC - WBSps.ca - 20210317 11X 17 Scans.png",
+ "file": "Modules/AMPLIFIERS/M626/MANUALS/1971 - M626 - DOC - WBSps.ca - 20210317 11X 17 Scans.png",
  "sha256": "91772e452f03b96261ac0d0ab4091ea0aa47d13f7cfd7c6bd2304b0a66c666ca",
  "kind": "doc",
  "models": [

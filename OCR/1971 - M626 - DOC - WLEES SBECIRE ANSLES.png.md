@@ -1,5 +1,5 @@
 # 1971 - M626 - DOC - WLEES SBECIRE ANSLES.png
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** 1971 (found in this ad: "APRIL 1971")
@@ -96,7 +96,7 @@ Mand BLCK SUSTENS LTD M626 TRICKLE CHARGER SCHEMATIC B 626-02-0o1
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M626/1971 - M626 - DOC - WLEES SBECIRE ANSLES.png",
+ "file": "Modules/AMPLIFIERS/M626/MANUALS/1971 - M626 - DOC - WLEES SBECIRE ANSLES.png",
  "sha256": "dabce91bbe4949a7ce6c0a2fdb4cc3bfa2b4f8cbcb318f8f36d912eb3aadba33",
  "kind": "doc",
  "models": [
