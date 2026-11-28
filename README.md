@@ -1,6 +1,6 @@
 # M626 Trickle Charger · Amplifiers
 
-Ward-Beck Systems M626, 1971|4. Wiki page: [M626 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M626.html)
+Ward-Beck Systems M626, 1971|4. Wiki page: [M626 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M626-Trickle-Charger/)
 
 | Folder | What is in it | Files |
 |---|---|---|

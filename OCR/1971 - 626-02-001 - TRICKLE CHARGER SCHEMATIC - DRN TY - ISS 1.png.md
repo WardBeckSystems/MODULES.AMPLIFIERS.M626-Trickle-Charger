@@ -1,5 +1,5 @@
 # 1971 - 626-02-001 - TRICKLE CHARGER SCHEMATIC - DRN TY - ISS 1.png
-Wiki page: [M626](../../../../PAGES/M626.md)
+Wiki page: [M626](../)
 
 
 - **Year:** 1971 (title block date)
